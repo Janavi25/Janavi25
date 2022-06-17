@@ -18,7 +18,7 @@ Talk to me about
 
 > * Front-end development using **HTML, CSS, JavaScript, XML In Android Java,Flutter**<br>
 > * Backend development using **Dart-Flutter, NodeJs(Begineer), Java**<br>
-> * Database using **Firebase Firestore, Firebase Realtime Database, MongoDB**<br>
+> * Database using **Firebase Firestore, Firebase Realtime Database**<br>
 > * Mobile development using **Java, Flutter**<br>
 > * Creating big and small projects using **Flutter and HTML,CSS and Javascript(Web Devlopment-Frontend)**<br>
 
